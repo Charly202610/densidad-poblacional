@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+datos_crudos/*
+datos_procesados/*
+!datos_crudos/.gitkeep
+!datos_procesados/.gitkeep
+*.pbix
